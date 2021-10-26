@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/techno-rabit"><img title="Author" src="https://img.shields.io/badge/Author-Vishnu-yellow.svg?style=for-the-badge&logo=github"></a>
-<a href="http://technorabit.unaux.com/"><img title="Website" src="https://img.shields.io/badge/Website-Techno-rabit-red.svg?style=for-the-badge&logo=github"></a>
+<a href="http://technorabit.unaux.com/"><img title="Website" src="https://img.shields.io/badge/Website-Techno--rabit-red.svg?style=for-the-badge&logo=sites"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-blue.svg?style=flat-square"></a>
