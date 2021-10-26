@@ -1,15 +1,15 @@
 <p align="left">
-<a href="#"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23ff0000&colorB=orange&style=for-the-badge"></a>
+<a href="#"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=green&colorB=orange&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
 </p>
 <p align="center">
-<a href="https://github.com/techno-rabit"><img title="Author" src="https://img.shields.io/badge/Author-Vishnu-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+<a href="https://github.com/techno-rabit"><img title="Author" src="https://img.shields.io/badge/Author-Vishnu-yellow.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink?style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-blue.svg?style=flat-square"></a>
 </p>
 
 ## Installation :
