@@ -348,7 +348,7 @@ printf "\e[0m\e[92m  Instagram \e[0m\e[91m  : \e[0m\e[96mhttps://instagr.am/_.v.
 printf "\e[0m\n"
 printf "\e[0m\e[92m  Version \e[0m\e[91m    : \e[0m\e[93m1.0\e[0m\n"
 printf "\e[0m\n"
-printf "         \e[0m\e[1;44m Follow Our Github For More Tools \e[0m\n"
+printf "         \e[0m\e[1;44m Follow My Github For More Tools \e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\n"
 sleep 3
