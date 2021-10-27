@@ -87,8 +87,8 @@ smallbanner() {
 
 clear
 printf "\e[0m\n"
-printf "\e[0m\n"     __
-printf "\e[0m\e[93m |__]           ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
+printf "\e[0m\n"                                                 
+printf "\e[0m\e[93m |  )           ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
 printf "\e[0m\e[93m | \   /\  |_  |___] |__|  |  |__ |__| |__ |__/ \e[0m\n"
 printf "\e[0m\e[93m |  \ /  \ |_) |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e[1;46m\e[0m\n"
 printf "\e[0m\n"
@@ -333,8 +333,8 @@ about() {
 clear
 sleep 2
 printf "\e[0m\n"
-printf "\e[0m\n"     __
-printf "\e[0m\e[93m |__]           ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
+printf "\e[0m\n"     
+printf "\e[0m\e[93m |  )           ___  _  _ ___ ___ _  _ ___  ___ \e[0m\n"
 printf "\e[0m\e[93m | \   /\  |_  |___] |__|  |  |__ |__| |__ |__/ \e[0m\n"
 printf "\e[0m\e[93m |  \ /  \ |_) |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e[1;46m\e[0m\n"
 printf "\e[0m\n"
