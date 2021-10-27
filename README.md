@@ -28,7 +28,7 @@ apt update ; apt install git -y ; git clone git://github.com/techno-rabit/rabphi
 ```
 <br>
 <p align="center">
-<img width="50%" src="Rab1"/>
+<img width="50%" src="Rab1.png"/>
 <img width="46%" src="Rab2.png"/>
 
 
